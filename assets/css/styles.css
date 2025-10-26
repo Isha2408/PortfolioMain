@@ -326,15 +326,35 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 100%;
+}
+
+.skills__python {
+  width: 100%;
+}
+
+.skills__mysql {
+  width: 100%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 100%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 80%;
+}
+
+.skills__reactjs {
+  width: 90%;
+}
+
+.skills__nodejs {
+  width: 60%;
+}
+
+.skills__expressjs {
+  width: 60%;
 }
 
 .skills__img {

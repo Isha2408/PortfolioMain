@@ -357,6 +357,58 @@ img {
   width: 60%;
 }
 
+.skills__java {
+  width: 20%;
+}
+
+.skills__crm tools {
+  width: 100%;
+}
+
+.skills__ms excel {
+  width: 100%;
+}
+
+.skills__google workspace {
+  width: 90%;
+}
+
+.skills__figma {
+  width: 70%;
+}
+
+.skills__adobe xd {
+  width: 80%;
+}
+
+.skills__git {
+  width: 90%;
+}
+
+.skills__framer motion {
+  width: 80%;
+}
+
+.skills__social media marketing {
+  width: 100%;
+}
+
+.skills__campaign planning {
+  width: 100%;
+}
+
+.skills__expressjs {
+  width: 60%;
+}
+
+.skills__analytics {
+  width: 60%;
+}
+
+.skills__conversion tracking {
+  width: 100%;
+}
+
 .skills__img {
   border-radius: .5rem;
 }
